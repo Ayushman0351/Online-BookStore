@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "A great book to read",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "A great book to read",
+        "price": 50,
+        "category": "sports",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Music Book",
+        "title": "A great book to read",
+        "price": 30,
+        "category": "Music",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Recipe Book",
+        "title": "A great book to read",
+        "price": 100,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "A great book to read",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716974902~exp=1716978502~hmac=acb938c39bf36f39590c0c2115473ca4b31a4a3273fbcd8b5b3e8b1fce27b419&w=740"
+    }
+]
